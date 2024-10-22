@@ -1,6 +1,6 @@
 {
   "name": "@haixing_hu/storage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A JavaScript library providing wrapper objects for Web storages.",
   "author": "Haixing Hu (starfish.hu@gmail.com)",
   "license": "Apache-2.0",
@@ -44,12 +44,10 @@
     "es5": "check-es-version -e 5 -s true",
     "deploy": "npm run lint && npm run test && npm run build:all && npm publish --registry='https://registry.npmjs.com/' --access public"
   },
-  "dependencies": {
-    "js-cookie": "^3.0.5"
-  },
   "peerDependencies": {
     "@babel/runtime": "^7.23.6",
-    "@haixing_hu/json": "^1.0.3"
+    "@haixing_hu/json": "^1.0.3",
+    "js-cookie": "^3.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.23.6",
