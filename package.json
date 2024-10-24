@@ -1,6 +1,6 @@
 {
   "name": "@haixing_hu/storage",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A JavaScript library providing wrapper objects for Web storages.",
   "author": "Haixing Hu (starfish.hu@gmail.com)",
   "license": "Apache-2.0",

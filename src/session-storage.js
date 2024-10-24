@@ -6,7 +6,7 @@
 //    All rights reserved.
 //
 ////////////////////////////////////////////////////////////////////////////////
-import Json from '@haixing_hu/json';
+import { Json } from '@haixing_hu/json';
 
 /**
  * 提供一个简单的接口来操作浏览器的 session storage。
