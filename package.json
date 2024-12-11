@@ -1,6 +1,6 @@
 {
   "name": "@haixing_hu/storage",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "A JavaScript library providing wrapper objects for Web storages.",
   "author": "Haixing Hu (starfish.hu@gmail.com)",
   "license": "Apache-2.0",
@@ -50,7 +50,7 @@
   },
   "peerDependencies": {
     "@babel/runtime": "^7.26.0",
-    "@haixing_hu/json": "^1.1.2"
+    "@haixing_hu/json": "^1.1.3"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
@@ -60,7 +60,7 @@
     "@babel/runtime": "^7.26.0",
     "@haixing_hu/eslint-config": "^1.3.3",
     "@haixing_hu/jsdoc-minami": "^1.5.1",
-    "@haixing_hu/json": "^1.1.2",
+    "@haixing_hu/json": "^1.1.3",
     "@haixing_hu/rollup-builder": "^1.8.3",
     "@jest/core": "^29.7.0",
     "@rollup/plugin-alias": "^5.1.1",

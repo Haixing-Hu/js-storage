@@ -1527,14 +1527,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@haixing_hu/json@npm:^1.1.2":
-  version: 1.1.2
-  resolution: "@haixing_hu/json@npm:1.1.2"
+"@haixing_hu/json@npm:^1.1.3":
+  version: 1.1.3
+  resolution: "@haixing_hu/json@npm:1.1.3"
   dependencies:
     json-custom-numbers: "npm:^3.1.1"
   peerDependencies:
     "@babel/runtime": ^7.26.0
-  checksum: 10c0/9406b4310a50ba534cd3074f7ac1f32290c89ecd0d66cd7dd1f6dffc2625e271f6f0a75259baeeb7762301e054e49e839c16cd4953aa75dbcb24811b670aeefd
+  checksum: 10c0/940042ee2748a77c3d3726dad844680abdd9e175bb7d4832226ab853841fbec76b4f3c61838c8ea3fecd4857f45ab9c792ee2db0eea93c342c2d0cd555407e0b
   languageName: node
   linkType: hard
 
@@ -1570,7 +1570,7 @@ __metadata:
     "@babel/runtime": "npm:^7.26.0"
     "@haixing_hu/eslint-config": "npm:^1.3.3"
     "@haixing_hu/jsdoc-minami": "npm:^1.5.1"
-    "@haixing_hu/json": "npm:^1.1.2"
+    "@haixing_hu/json": "npm:^1.1.3"
     "@haixing_hu/rollup-builder": "npm:^1.8.3"
     "@jest/core": "npm:^29.7.0"
     "@rollup/plugin-alias": "npm:^5.1.1"
@@ -1596,7 +1596,7 @@ __metadata:
     rollup-plugin-visualizer: "npm:^5.12.0"
   peerDependencies:
     "@babel/runtime": ^7.26.0
-    "@haixing_hu/json": ^1.1.2
+    "@haixing_hu/json": ^1.1.3
   languageName: unknown
   linkType: soft
 
