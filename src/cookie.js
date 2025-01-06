@@ -7,7 +7,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 import CookieEngine from 'js-cookie';
-import { Json } from '@haixing_hu/json';
+import { Json } from '@qubit-ltd/json';
 
 /**
  * 提供一个简单的接口来操作浏览器的 Cookie。
